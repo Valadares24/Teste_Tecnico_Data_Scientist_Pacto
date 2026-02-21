@@ -2,7 +2,9 @@
 repositório | arquivos | consumo api | power BI | DAX | sql
 
 # Iunstruções de execução passo a passo:
-Em uma interface visual de código, abra os arquivos
+Em uma interface visual de código, abra o script python e o execute
+Os arquivos csv serão gerados automaticamente
+
 
 # Análise do desafio/Visão geral da solução:
 O desafio proposto envolvia o consumo e organização de dados da Fake Store Api, de forma que fosse possível trabalhar com essas inofmrações de forma lógica e visual em ambiente de BI.
